@@ -11,8 +11,9 @@ It don't allow me upload something here.
 Pictures/
 
 <p float="left">
-  <img src="/Pictures/Wheel_1.png" width="400" />
   <img src="/Pictures/Wheel_2.png" width="400" /> 
+  <img src="//Pictures/Arrow.png" width="100" />
+  <img src="/Pictures/Wheel_1.png" width="400" />
   <img src="/Pictures/Wheel_3.png" width="600" /> 
 </p>
 
