@@ -1,6 +1,6 @@
 # Reverse Engineering
 <p style="text-align:center;"> 
-During my work for company MCAE Systems, s.r.o. I worked as Reverse Engineering Specialist.
+During my work for MCAE Systems, s.r.o. I worked as Reverse Engineering Specialist.
 On this position I was responsible for reconstruction some damage or incomplete parts.
 </p>
 
