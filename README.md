@@ -31,5 +31,5 @@ Main purpose of this model was demonstration capabilities of Tebis CAD/CAM syste
 <p float="left">
   <img src="/Pictures/TurbineH_1.png" width="300" /> 
   <img src="/Pictures/TurbineH_2.png" width="300" />
-  <img src="/Pictures/TurbineH_3.png" width="300" /> 
+  <img src="/Pictures/TurbineH_3.png" width="500" /> 
 </p>
