@@ -17,7 +17,7 @@ Reconstruction of a cast car disk.
   <img src="/Pictures/Wheel_3.png" width="600" /> 
 </p>
 
-# Bottle 
+  # Bottle (VBF)
 Making of smoothness and mirrored model of plastic bottle from HDPE material. This model usage for further processing and development a blow moulding tool.
 
 <p float="left">
