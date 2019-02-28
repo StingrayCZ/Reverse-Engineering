@@ -17,8 +17,8 @@ On follow samples could you see these parts:
 Reconstruction of a cast car disk.
 
 <p float="left">
-  <img src="/Pictures/Wheel_2.png" width="450" /> 
-  <img src="/Pictures/Wheel_1.png" width="450" />
+  <img src="/Pictures/Wheel_2.png" width="420" /> 
+  <img src="/Pictures/Wheel_1.png" width="420" />
   <img src="/Pictures/Wheel_3.png" width="600" /> 
 </p>
 
