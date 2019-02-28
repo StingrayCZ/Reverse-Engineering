@@ -4,7 +4,7 @@ During my work for company MCAE Systems, s.r.o. I worked as Reverse Engineering 
 On this position I was responsible for reconstruction some damage or incomplete parts.
 </p>
 
-Unfortunately these models and meshes are under the corporate authorship.
+Unfortunately these models and meshes are under the corporate authorship right.
 In this fact It means that I'am author but owner is my employer. 
 It don't allow me upload something here.
 
