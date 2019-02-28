@@ -8,7 +8,7 @@ Unfortunately these models and meshes are under the corporate authorship right.
 In this fact It means that I'am author but owner is my employer. 
 It don't allow me upload something here.
 
-# Car Wheel Disk (Maxion Wheels)
+## Car Wheel Disk (Maxion Wheels)
 Reconstruction of a cast car disk.
 
 <p float="left">
@@ -17,7 +17,7 @@ Reconstruction of a cast car disk.
   <img src="/Pictures/Wheel_3.png" width="600" /> 
 </p>
 
-  # Bottle (VBF)
+## Bottle (VBF)
 Making of smoothness and mirrored model of plastic bottle from HDPE material. This model usage for further processing and development a blow moulding tool.
 
 <p float="left">
