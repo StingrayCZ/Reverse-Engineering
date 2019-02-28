@@ -8,6 +8,11 @@ Unfortunately these models and meshes are under the corporate authorship right.
 In this fact means that I'am just author but owner is my employer. 
 It don't allow me upload something here.
 
+On follow samples could you see these parts:
+*   Car Wheel Disk
+*   Bottle
+*   Turbine Housing
+
 ## Car Wheel Disk (Maxion Wheels)
 Reconstruction of a cast car disk.
 
