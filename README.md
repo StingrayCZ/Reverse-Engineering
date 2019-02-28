@@ -1,7 +1,7 @@
 # Reverse Engineering
 <p style="text-align:center;"> 
 During my work for MCAE Systems, s.r.o. I worked as Reverse Engineering Specialist.
-On this position I was responsible for reconstruction some damage or incomplete parts.
+On this position I was responsible for reconstruction some damage or incomplete parts. This repository cotains some samples of my daily bread and butter.
 </p>
 
 Unfortunately these models and meshes are under the corporate authorship right.
