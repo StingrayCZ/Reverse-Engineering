@@ -21,7 +21,7 @@ Reconstruction of a cast car disk.
 Making of smoothness and mirrored model of plastic bottle from HDPE material. This model usage for further processing and development a blow moulding tool.
 
 <p float="left">
-  <img src="/Pictures/Bottle_1.png" width="200" /> 
-  <img src="/Pictures/Bottle_2.png" width="200" />
-  <img src="/Pictures/Bottle_3.png" width="400" /> 
+  <img src="/Pictures/Bottle_1.png" width="300" /> 
+  <img src="/Pictures/Bottle_2.png" width="300" />
+  <img src="/Pictures/Bottle_3.png" width="300" /> 
 </p>
