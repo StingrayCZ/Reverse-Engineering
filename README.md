@@ -29,7 +29,7 @@ Making of smoothness and mirrored model of plastic bottle from HDPE material. Th
 ## Turbine Housing (display model for IEF 2017)
 Main purpose of this model was demonstration capabilities of Tebis CAD/CAM system.<br/>*IEF - <a href="https://www.bvv.cz/en/msv/msv-2017/">International Engineering Fair
 <p float="left">
-  <img src="/Pictures/TurbineH_1.png" width="300" /> 
-  <img src="/Pictures/TurbineH_2.png" width="300" />
-  <img src="/Pictures/TurbineH_3.png" width="500" /> 
+  <img src="/Pictures/TurbineH_1.png" width="400" /> 
+  <img src="/Pictures/TurbineH_2.png" width="400" />
+  <img src="/Pictures/TurbineH_3.png" width="700" /> 
 </p>
