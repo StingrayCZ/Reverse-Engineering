@@ -5,7 +5,7 @@ On this position I was responsible for reconstruction some damage or incomplete 
 </p>
 
 Unfortunately these models and meshes are under the corporate authorship right.
-In this fact means that I'am just author but owner is my employer. 
+This fact means that I'am just author but owner is my employer. 
 It don't allow me upload something here.
 
 On follow samples could you see these parts:
