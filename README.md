@@ -14,7 +14,7 @@ On follow samples could you see these parts:
 *   Turbine Housing
 
 ## Car Wheel Disk (Maxion Wheels)
-Reconstruction of a cast car disk.
+Reconstruction of a casted car disk.
 
 <p float="left">
   <img src="/Pictures/Wheel_2.png" width="420" /> 
